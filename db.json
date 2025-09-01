@@ -7,5 +7,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Domenica Escobar",
+      "email": "dome@example.com"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "email": "john@example.com"
+    }
+  ]
 }
